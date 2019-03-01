@@ -1,25 +1,22 @@
+
 $ git log
 
 commit 62b90fd5eb8047e26d2be256bf30744c3963de65 (HEAD -> master, origin/master, origin/HEAD)
-Author: bobbylu <bobbylu@tencent.com>
 Date:   Fri Mar 1 20:30:06 2019 +0800
 
     add the push.txt
 
 commit a75a0fc0cb3b48d05b454a9e1884d5963513da14
-Author: bobbylu <bobbylu@tencent.com>
 Date:   Fri Mar 1 20:28:59 2019 +0800
 
     add the commit data
 
 commit 8b6b3b8b7b8fd2e958894b56bee3115040dfdf19
-Author: bobbylu <bobbylu@tencent.com>
 Date:   Fri Mar 1 20:26:46 2019 +0800
 
     add the add.txt
 
 commit 0063c8b050d3ad6939c0387f31a720123c4f30ab
-Author: bobbylu(б╛лн) <bobbylu@tencent.com>
 Date:   Wed Jan 2 20:54:21 2019 +0800
 
     commit a text to master
